@@ -1,4 +1,8 @@
 # Car-Rental-Management-System
+
+![Login Image](Arent/Snapshots/one.png)
+![Registration Image](Arent/Snapshots/two.png)
+
 Car Rental Management System using Apache Netbeans for Java and MySQL database.
 Car Rental Management System is a system that rents out cars. This system enables the company to make their services available to the public through the internet and also keep records about their services.
 This system has been designed to computerize the following functions:
